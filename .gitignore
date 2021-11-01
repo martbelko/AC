@@ -38,3 +38,7 @@ dumpmapconfig.txt
 packetlog.txt
 profile/*
 
+.vs/
+bin/
+bin-int/
+
